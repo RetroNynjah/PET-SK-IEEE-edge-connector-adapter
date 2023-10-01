@@ -1,6 +1,6 @@
 # PET SK IEEE-488 to edge connector adapter
 
-Many accessories for the CBM PET are desgined for models which have an edge connector for IEEE-BUS while the PET 8032-SK/8096-SK/200 has a standard IEEE-488 connector. That's a D-shaped connector which is sometimes called GPIB connector or Centronix connector.  
+Many accessories for the CBM PET such as SD2PET and PETdisk are desgined for models which have an edge connector for IEEE-BUS while the PET 8032-SK/8096-SK/200 has a standard IEEE-488 connector. That's a D-shaped connector which is sometimes called GPIB connector or Centronix connector.  
 This cheap adapter converts from the standard IEEE-488 port on the SK models to a card edge so that standard PET accessories with edge connectors can be used.  
 
 <img src="images\adapter.jpg" alt="Photo of adapter" width="600"/><br/>
@@ -37,8 +37,9 @@ Example of suitable connector: https://www.aliexpress.com/item/32795413098.html
 |    GND     |     24   |     N    |
 
 <img src="images\IMG_8396.jpg" alt="Photo of adapter installed" width="600"/><br/>
-Adapter installed in PET
-
+PETdisk Max v2 installed in PET
 
 <img src="images\IMG_8440.jpg" alt="Photo of adapter installed together with floppy cable" width="600"/><br/>
-Installed with floppy drive
+PETdisk Max v2 installed together with floppy drive in PET
+
+Thanks to Jonas for the PETdisk Max v2 photos.
